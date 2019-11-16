@@ -1,0 +1,19 @@
+.bio-pic {
+    width: 150px;
+    height: 200px;
+    float: left;
+}
+
+.heading5 {
+    margin-top: 40px;
+}
+.div-img {
+    background-image: url("https://images.unsplash.com/photo-1523875194681-bedd468c58bf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60");
+    height: 300px;
+    width: 300px;
+    background-size: cover;
+}
+.prgph {
+    background: white;
+    width: 100% !important;
+}
